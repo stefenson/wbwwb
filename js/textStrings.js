@@ -4,87 +4,87 @@
 
 var textStrings_EN = {
     // Act 1
-    "niceHat"              : "OOH NICE HAT"                                          ,
-    "outtaHere"            : "yeah git on outta here"                                ,
-    "getARoom"             : "GROSS, GO GET A ROOM"                                  ,
-    "notCoolAnymore"       : "nvm hats aren't cool anymore"                          ,
-    "tvOnTv"               : "A TV... ON TV!"                                        ,
-    "cricky"               : "LIL' CRICKY <3"                                        ,
-    "tooManyCrickets"      : "okay that's too many crickets"                         ,
-    "normalPeep"           : "just a normal peep"                                    ,
-    "normalPeeps"          : "just some normal peeps"                                ,
-    "wowNothing"           : "WOWWEE, IT'S NOTHING"                                  ,
+    "niceHat"              : "WOW！这帽子不错～"										,
+    "outtaHere"            : "嗯是，虐狗的走了"								,
+    "getARoom"             : "请这对虐狗的赶紧去开房"                                  ,
+    "notCoolAnymore"       : "戴这种帽子的太多了……"                          ,
+    "tvOnTv"               : "一个在电视上的电视！"                                        ,
+    "cricky"               : "好吧，我再给你点虫子"                                        ,
+    "tooManyCrickets"      : "你还想要更多？"                         ,
+    "normalPeep"           : "一个普通人"                                    ,
+    "normalPeeps"          : "一群普通人"                                ,
+    "wowNothing"           : "哇，你拍了一个神作！"                                  ,
     
     // Act 2
-    "crazySquareAttacks"   : "CRAZED SQUARE ATTACKS"                                 ,
-    "justMissed"           : "oooooh just missed it"                                 ,
-    "somethingInteresting" : "(ya gotta catch 'em doing *something* interesting...)" ,
-    "whoIsScreaming"       : "(ya gotta catch who's screaming at 'em)"               ,
-    "circleFearsSquares"   : "CIRCLE FEARS SQUARES"                                  ,
-    "whoScaresThem"        : "(ya gotta also catch *who* they're scared by)"         ,
-    "areTheyScared"        : "(ya gotta catch 'em *being* scared by a square)"       , // not used
-    "squaresSnubCircles"   : "SQUARES SNUB CIRCLES"                                  ,
-    "areTheySnubbed"       : "(ya gotta catch 'em *while* snubbing a circle)"        , // not used
-    "everyoneHates"        : "EVERYONE HATES EVERYONE!!1!"                           ,
-    "almostEveryoneHates"  : "ALMOST EVERYONE HATES EVERYONE..."                     ,
-    "squaresHateCircles"   : "SQUARES HATE CIRCLES"                                  ,
-    "circlesHateSquares"   : "CIRCLES HATE SQUARES"                                  ,
-    "areTheyYelling"       : "(ya gotta catch 'em *yelling* at others)"              , // not used
-    "nerdsNow"             : "what are these nerds doing now"                        ,
-    "schockedPeep"         : "why's this peep shocked?"                              ,
-    "whatever"             : "whatever"                                              ,
+    "crazySquareAttacks"   : "方形脸人貌似脾气很暴躁？"                                 ,
+    "justMissed"           : "哎呀～ 你刚好错过"                                 ,
+    "somethingInteresting" : "(抓拍这个人有意思的瞬间～)" ,
+    "whoIsScreaming"       : "(emmm……你应该把吼他的那个拍下来)"               ,
+    "circleFearsSquares"   : "圆脸人对方脸人感到害怕"                                  ,
+    "whoScaresThem"        : "(你应该同时拍下来他害怕谁)"         ,
+    "areTheyScared"        : "(你应该同时拍下来谁害怕他)"       , // not used
+    "squaresSnubCircles"   : "方形脸人对圆脸人嗤之以鼻"                                  ,
+    "areTheySnubbed"       : "(你应该拍下来他对谁嗤之以鼻)"        , // not used
+    "everyoneHates"        : "所有人都互相憎恨彼此！！"                           ,
+    "almostEveryoneHates"  : "几乎所有人都互相憎恨彼此..."                     ,
+    "squaresHateCircles"   : "方形脸人恨圆形脸人"                                  ,
+    "circlesHateSquares"   : "圆形脸人恨方形脸人"                                  ,
+    "areTheyYelling"       : "(你应该拍下来他吼叫的瞬间)"              , // not used
+    "nerdsNow"             : "这对虐狗的会怎么处理？"                        ,
+    "schockedPeep"         : "为什么他们都震惊了？"                              ,
+    "whatever"             : "(无力吐槽)"                                              ,
     
     // Act 3
-    "ellipsis"             : ". . ."                                                 ,
-    "coolNoMore"           : "hats ain't cool no more, haven't you heard?"           ,
-    "beScared"             : "BE SCARED. BE ANGRY."                                  ,
+    "ellipsis"             : ". . .卧槽"                                                 ,
+    "coolNoMore"           : "帽子已经过时了，你不知道?"           ,
+    "beScared"             : "颤抖吧！互相伤害吧！"                                  ,
     
     // MANIFESTO
     "manifesto" : [
        //"as if you viewers want GOOD news"       ,
-       "who tunes in to watch *people get along?*",
-       "peace is boring. violence goes viral."    ,
+       "拍的不错，但是谁会看这些呢？",
+       "大家只追求爆点，不喜欢和平."    ,
        //"peace is boring. conflict gets clicks." ,
-       "and every story needs a conflict, so..."  ,
+       "每篇报道都需要爆点，所以..."  ,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."   ,
-       "GIVE THE AUDIENCE WHAT THEY WANT."
+       "让他们看他们想看的东西！"
     ] ,
     
     // -- Strings currently in graphics resources --
     
     // (bg_preload.png) Preload screen
-    "playingTime"        : "playing time: 5 minutes" ,
-    "warning"            : "warning: the following program\ncontains scenes of snobbery,\nrudeness & mass murder.\nviewer discretion is advised." ,
+    "playingTime"        : "游玩时间：5分钟" ,
+    "warning"            : "警告: 本网页游戏包含如下内容\n势利、无礼行为和血腥暴力场景\n请酌情决定是否继续。" ,
     
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" ,
+    // "pointAndClick"      : "瞄准有趣的地方，点击拍照" ,
     
     // (chyron3.png)
-    "chyronNothing"      : "WOWWEE, IT'S *NOTHING*" ,
+    "chyronNothing"      : "哇，你拍了一个神作！" ,
     
     // (credits0001.png)
-    "createdBy"          : "created by" ,
+    "createdBy"          : "制作人" ,
     "NickyCase"          : "Nicky Case" ,
     
     // (credits0002.png)
-    "manyThanks"         : "many thanks to my playtesters:" ,
+    "manyThanks"         : "感谢制作时帮助我测试的人们:" ,
     
     // (credits000[3,4,5,6].png)
-    "patreonSupporters"  : "and to my patreon supporters:" ,
+    "patreonSupporters"  : "感谢patreon平台的赞助者:" ,
     
     // (credits0007.png)
-    "lastButNotLeast"    : "and last but not least," ,
+    "lastButNotLeast"    : "最后的最后," ,
     
     // (credits0008.png)
-    "thankYouForPlaying" : "thank YOU for playing!" ,
+    "thankYouForPlaying" : "感谢你的游玩!" ,
     
     // (preload_play.png)
     "playButton"         : "PLAY" ,
     
     // (end_button.png) Post Credits
-    "otherWorkButton"    : "see my other work" ,
-    "buyCoffeeButton"    : "buy me a coffee" ,
-    "replayButton"       : "replay this mess" ,
+    "otherWorkButton"    : "浏览其他作品" ,
+    "buyCoffeeButton"    : "捐赠支持" ,
+    "replayButton"       : "重新开始" ,
     
     // (logo.png) Post Credits
     "logoWBWWB"          : "SHARE THE PAIN:" ,
@@ -95,13 +95,13 @@ var textStrings_EN = {
     
     // (quote0002.png)
     "WBWWB"              : "We become what we behold." ,
-    "WSOTATOTSU"         : "We shape our tools and then our tools shape us." ,
+    "WSOTATOTSU"         : "We shape our tools and then our tools shape us.\n我们制造工具，然后工具反过来塑造我们" ,
     
     // (quote0003.png)
-    "MarshallMcLuhan"    : "Marshall McLuhan" ,
+    "MarshallMcLuhan"    : "Marshall McLuhan(马歇尔·麦克卢汉)" ,
     
     // (quote0004.png)
-    "misatrributed"      : "(misattributed)" ,
+    "misatrributed"      : "(错误解读)" ,
 };
 
 // Umlaut codes: Ä = \xC4, Ö = \xD6, Ü = \xDC, ä = \xE4, ö = \xF6, ü = \xFC, ß = \x
@@ -161,7 +161,7 @@ var textStrings_DE = {
     "warning"            : "Warnung: die folgende Sendung\nenth\xE4lt Darstellungen von Arroganz,\nBeleidigungen & Gewalt.\nund ist nicht f\xFCr Kinder geeignet." ,
     
     // (cam-instructions.png) Camera Instructions
-    "pointAndClick"      : "POINT & CLICK" , // I'd leave that in English, even for the German translation. /stefan
+    "pointAndClick"      : "瞄准，然后点击拍照" , // I'd leave that in English, even for the German translation. /stefan
     
     // (chyron3.png)
     "chyronNothing"      : "Oh wow, *NICHTS*!" ,

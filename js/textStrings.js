@@ -4,46 +4,46 @@
 
 var textStrings_EN = {
     // Act 1
-    "niceHat"              : "WOW！这帽子不错～"							,
-    "outtaHere"            : "嗯是，虐狗的走了"								,
-    "getARoom"             : "请这对虐狗的赶紧去开房"						,
-    "notCoolAnymore"       : "戴这种帽子的太多了……"							,
-    "tvOnTv"               : "一个在电视上的电视！"							,
-    "cricky"               : "一个可爱的虫子"								,
-    "tooManyCrickets"      : "你还想要更多？"								,
-    "normalPeep"           : "一个普通人"									,
-    "normalPeeps"          : "一群普通人"									,
-    "wowNothing"           : "哇，你拍了一个神作！"							,
+    "niceHat"              : "WOW！这帽子不错～"                         ,
+    "outtaHere"            : "嗯是，虐狗的走了"                          ,
+    "getARoom"             : "请这对虐狗的赶紧去开房"                    ,
+    "notCoolAnymore"       : "戴这种帽子的太多了……"                    ,
+    "tvOnTv"               : "一个在电视上的电视！"                      ,
+    "cricky"               : "一个可爱的虫子"                            ,
+    "tooManyCrickets"      : "你还想要更多？"                            ,
+    "normalPeep"           : "一个普通人"                                ,
+    "normalPeeps"          : "一群普通人"                                ,
+    "wowNothing"           : "哇，你拍了一个神作！"                      ,
     
     // Act 2
-    "crazySquareAttacks"   : "方形脸人貌似脾气很暴躁？"						,
-    "justMissed"           : "哎呀～ 你刚好错过"							,
-    "somethingInteresting" : "(抓拍这个人有意思的瞬间～)"					,
-    "whoIsScreaming"       : "(emmm……你应该把吼他的那个拍下来)"				,
-    "circleFearsSquares"   : "圆脸人对方脸人感到害怕"						,
-    "whoScaresThem"        : "(你应该同时拍下来他害怕谁)"					,
-    "areTheyScared"        : "(你应该同时拍下来谁害怕他)"					, // not used
-    "squaresSnubCircles"   : "方形脸人对圆脸人嗤之以鼻"						,
-    "areTheySnubbed"       : "(你应该拍下来他对谁嗤之以鼻)"					, // not used
-    "everyoneHates"        : "所有人都互相憎恨彼此！！"						,
-    "almostEveryoneHates"  : "几乎所有人都互相憎恨彼此..."					,
-    "squaresHateCircles"   : "方形脸人恨圆形脸人"							,
-    "circlesHateSquares"   : "圆形脸人恨方形脸人"							,
-    "areTheyYelling"       : "(你应该拍下来他吼叫的瞬间)"					, // not used
-    "nerdsNow"             : "这对虐狗的会怎么处理？"						,
-    "schockedPeep"         : "为什么他们都震惊了？"							,
-    "whatever"             : "(无力吐槽)"									,
+    "crazySquareAttacks"   : "方形脸人貌似脾气很暴躁？"                  ,
+    "justMissed"           : "哎呀～ 你刚好错过"                         ,
+    "somethingInteresting" : "(抓拍这个人有意思的瞬间～)"                ,
+    "whoIsScreaming"       : "(emmm……你应该把吼他的那个拍下来)"        ,
+    "circleFearsSquares"   : "圆脸人对方脸人感到害怕"                    ,
+    "whoScaresThem"        : "(你应该同时拍下来他害怕谁)"                ,
+    "areTheyScared"        : "(你应该同时拍下来谁害怕他)"                , // not used
+    "squaresSnubCircles"   : "方形脸人对圆脸人嗤之以鼻"                  ,
+    "areTheySnubbed"       : "(你应该拍下来他对谁嗤之以鼻)"              , // not used
+    "everyoneHates"        : "所有人都互相憎恨彼此！！"                  ,
+    "almostEveryoneHates"  : "几乎所有人都互相憎恨彼此..."               ,
+    "squaresHateCircles"   : "方形脸人恨圆形脸人"                        ,
+    "circlesHateSquares"   : "圆形脸人恨方形脸人"                        ,
+    "areTheyYelling"       : "(你应该拍下来他吼叫的瞬间)"                , // not used
+    "nerdsNow"             : "这对虐狗的会怎么处理？"                    ,
+    "schockedPeep"         : "为什么他们都震惊了？"                      ,
+    "whatever"             : "(无力吐槽)"                                ,
     
     // Act 3
-    "ellipsis"             : ". . .卧槽"									,
-    "coolNoMore"           : "帽子已经过时了，你不知道?"					,
-    "beScared"             : "颤抖吧！互相伤害吧！"							,
+    "ellipsis"             : ". . .卧槽"                                 ,
+    "coolNoMore"           : "帽子已经过时了，你不知道?"                 ,
+    "beScared"             : "颤抖吧！互相伤害吧！"                      ,
     
     // MANIFESTO
     "manifesto" : [
-       //"as if you viewers want GOOD news"			,
-       "照片不错，但是谁会看这些呢？"				,
-       "大家只追求爆点，不喜欢和平."				,
+       //"as if you viewers want GOOD news"         ,
+       "照片不错，但是谁会看这些呢？"				  ,
+       "大家只追求爆点，不喜欢和平."                ,
        //"peace is boring. conflict gets clicks."	,
        "每篇报道都需要爆点，所以..."				,
        //"...GIVE THE AUDIENCE WHAT THEY WANT."		,
